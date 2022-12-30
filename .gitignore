@@ -1,0 +1,7 @@
+node_modules
+.env
+index.txt
+authCheck.js
+
+
+.vercel
